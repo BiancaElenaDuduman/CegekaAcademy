@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bianca\\Desktop\\FACULTA\\PRACTICA\\CegekaAcademy2021\\hw4\\Dealership\\Dealership\\Dealership.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bianca\\Desktop\\FACULTA\\PRACTICA\\CegekaAcademy2021\\hw4\\Dealership\\Dealership\\Dealership.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bianca\\Desktop\\FACULTA\\PRACTICA\\CegekaAcademy2021\\hw4\\Dealership\\Dealership\\Dealership.csproj",
+        "projectName": "Dealership",
+        "projectPath": "C:\\Users\\Bianca\\Desktop\\FACULTA\\PRACTICA\\CegekaAcademy2021\\hw4\\Dealership\\Dealership\\Dealership.csproj",
+        "packagesPath": "C:\\Users\\Bianca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bianca\\Desktop\\FACULTA\\PRACTICA\\CegekaAcademy2021\\hw4\\Dealership\\Dealership\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bianca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Glimpse": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

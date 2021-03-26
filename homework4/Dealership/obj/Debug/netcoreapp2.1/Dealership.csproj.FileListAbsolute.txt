@@ -1,0 +1,16 @@
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Dealership.deps.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Dealership.runtimeconfig.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Dealership.runtimeconfig.dev.json
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Dealership.dll
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.RazorAssemblyInfo.cache
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.RazorAssemblyInfo.cs
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.AssemblyInfoInputs.cache
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.AssemblyInfo.cs
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.RazorTargetAssemblyInfo.cache
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\bin\Debug\netcoreapp2.1\Dealership.pdb
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.dll
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.pdb
+C:\Users\Bianca\Desktop\FACULTA\PRACTICA\CegekaAcademy2021\hw4\Dealership\Dealership\obj\Debug\netcoreapp2.1\Dealership.csprojAssemblyReference.cache
