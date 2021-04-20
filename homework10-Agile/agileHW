@@ -1,0 +1,33 @@
+Project:
+1. On screen translation app
+2. 'Events around me' app
+3. Reading list browser extension
+
+
+2. 'Events around me' app
+	An app that displays all events that take place in an area chosen by the user. The
+app will allow users to leave reviews and also show reviews left by participants of past
+events that took place at the same location. All users will be able to add events.
+
+(Epics:)
+Show events in a specific zone
+	(User Stories:)
+	-As a User, I would like to choose an area so I can view only the events that are close to my location.
+	-As a User, I would like to filter the events by type and establishment so I can easily find an event that I would enjoy.
+	-As a User, I would like to blacklist establishments so that I can filter out events that take place there.
+
+User profile
+	-As a User, I would like to create and login into my account so I can leave a review.
+	-As a 'Logged in' User, I would like to edit my user profile so I can update it with new information.
+	-As a 'Logged in' User, I would like to delete my profile as I do not use it anymore.
+
+Event details
+	-As a User, I would like to select an event so I can see details such as location/time/date.
+	-As a 'Logged in' User, I would like to post a review for the event so I can share my experience.
+	-As a 'Logged in' User, I would like to update a review for the event so I can share my experience.
+	
+Location details
+	-As a User, I would like to select a location so I can see past events that took place there.
+	-As a User, I would like to view reviews of the locations so I can see if it's a popular place.
+	-As a 'Logged in' User, I would like to post a review for the location so I can share my experience.
+	-As a 'Logged in' User, I would like to update a review for the location so I can share my experience.
